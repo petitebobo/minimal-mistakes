@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Dev Logs by Bobo"
 title_separator          : "-"
-subtitle                 : "Own Your Narrative"
+subtitle                 : "more than dev logs"
 name                     : "PetiteBobo"
-description              : "More than Dev logs"
+description              : ""
 url                      : "https://petitebobo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "petitebobo/petitebobo.github.io"
@@ -65,8 +65,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "PetiteBobo"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Working and living in Seoul."
-  location         : "South Korea"
+  bio              : "Own your narrative:)"
+  location         : "Seoul, South Korea"
   email            : 
   links:
     - label: "Email"
@@ -223,7 +223,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Seoul"
 
 
 # Plugins (previously gems:)
