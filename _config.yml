@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "Dev logs by <Bobo/>"
+title                    : "Dev logs by Bobo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PetiteBobo"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bokyeong Kang"
+  name             : "PetiteBobo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Working and living in Seoul."
   location         : "Seoul"
