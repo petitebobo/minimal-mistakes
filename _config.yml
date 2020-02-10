@@ -24,7 +24,7 @@ description              : "More than Dev logs"
 url                      : "https://petitebobo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "petitebobo/petitebobo.github.io"
-teaser                   : "/assets/images/teaser.png"
+teaser                   : "/assets/images/teaser.jpg"
 logo                     : "/assets/images/pb.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
