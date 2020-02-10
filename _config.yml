@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "Dev logs by Bobo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -293,6 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
   - scope:
         path: "_pages"
         type: pages
