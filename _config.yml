@@ -25,7 +25,7 @@ url                      : "https://petitebobo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "petitebobo/petitebobo.github.io"
 teaser                   : "/assets/images/teaser.jpg"
-logo                     : "/assets/images/pb.png"
+logo                     : "/assets/images/pb.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
 words_per_minute         : 200
