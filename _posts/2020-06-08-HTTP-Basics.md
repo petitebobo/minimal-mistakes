@@ -9,9 +9,9 @@ tag:
   - http
 ---
 
-# HTTP 기초
-
 웹 개발의 기초가 되는 HTTP에 대한 내용을 간략히 정리해보았다.
+
+# HTTP 기초
 
 ## HTTP 통신 (Hyper Text Transfer Protocol)
 
