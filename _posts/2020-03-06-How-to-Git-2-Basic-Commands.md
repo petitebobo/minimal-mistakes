@@ -1,5 +1,5 @@
 ---
-title: "How to Git(2) - Basic Commands"
+title: "How to Git (2) - Basic Commands"
 categories: 
   - dev
   - How to git
